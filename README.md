@@ -30,8 +30,8 @@ ask Claude to rebuild with the domain: those are added, plus a `CNAME` file for 
 
 1. Create a new **public** repository, e.g. `le-relax-uk`.
 2. **Add file → Upload files** in two goes (the uploader takes 100 files at a time):
-   1. Everything **except** the `assets` folder (about 40 files, including the `media` folder with the factory video). Commit.
-   2. The `assets` folder itself (90 files). Commit.
+   1. Everything **except** the `assets` folder (about 47 files, including the `media` folder (factory video) and `docs` folder (catalogues)). Commit.
+   2. The `assets` folder itself (89 files). Commit.
 3. **Settings → Pages**: deploy from branch `main`, folder `/ (root)`.
 
 ## Notes
