@@ -1,4 +1,6 @@
-# LE-RELAX UK — trade website
+# BD House (UK) — trade website
+
+UK company name: BD House. LE-RELAX is our own brand, made in our Zhongshan factory.
 
 A static website (plain HTML/CSS, no build step) for UK trade customers, ready for GitHub Pages.
 English (en-GB) only. Separate from the Hong Kong site at le-relax.co.
